@@ -1,0 +1,1 @@
+# Package to test installation by pip
